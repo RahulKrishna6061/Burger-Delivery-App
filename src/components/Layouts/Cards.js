@@ -1,7 +1,6 @@
 import React, { useReducer, useState } from "react";
 import { Col, Card } from "react-bootstrap";
 import { Link } from "react-router-dom";
-import {useCart} from "../CartContext"
 const initialState = { count: 0 };
 
 const cartReducer = (state, action) => {

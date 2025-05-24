@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Container, Nav, Navbar } from "react-bootstrap";
+import { Container, Navbar } from "react-bootstrap";
 import { Link } from "react-scroll";
 import Logo from "../../assets/logo/logo.png";
 import "../../styles/HeaderStyle.css";
